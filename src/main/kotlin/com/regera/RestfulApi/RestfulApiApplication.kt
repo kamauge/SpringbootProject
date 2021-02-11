@@ -1,11 +1,11 @@
-package rg.precious.springboot.precious
+package com.regera.RestfulApi
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class PreciousApplication
+class RestfulApiApplication
 
 fun main(args: Array<String>) {
-	runApplication<PreciousApplication>(*args)
+	runApplication<RestfulApiApplication>(*args)
 }

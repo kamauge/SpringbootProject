@@ -1,1 +1,0 @@
-Spring boot REST API application with Kotlin
